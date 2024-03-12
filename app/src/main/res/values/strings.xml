@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">RunAPP</string>
+    <string name="dayOfTrainning_1">DAY 1</string>
+    <string name="dayOfTrainning_2">DAY 2</string>
+    <string name="dayOfTrainning_3">DAY 3</string>
+    <string name="dayOfTrainning_4">DAY 4</string>
+    <string name="dayOfTrainning_5">DAY 5</string>
+    <string name="dayOfTrainning_6">DAY 6</string>
+    <string name="dayOfTrainning_7">DAY 7</string>
+    <string name="dayOfTrainning_8">DAY 8</string>
+    <string name="dayOfTrainning_9">DAY 9</string>
+    <string name="dayOfTrainning_10">DAY 10</string>
+    <string name="dayOfTrainning_11">DAY 11</string>
+    <string name="dayOfTrainning_12">DAY 12</string>
+    <string name="dayOfTrainning_13">DAY 13</string>
+    <string name="dayOfTrainning_14">DAY 14</string>
+    <string name="dayOfTrainning_15">DAY 15</string>
+    <string name="dayOfTrainning_16">DAY 16</string>
+    <string name="dayOfTrainning_17">DAY 17</string>
+    <string name="dayOfTrainning_18">DAY 18</string>
+    <string name="dayOfTrainning_19">DAY 19</string>
+    <string name="dayOfTrainning_20">DAY 20</string>
+    <string name="dayOfTrainning_21">DAY 21</string>
+    <string name="dayOfTrainning_22">DAY 22</string>
+    <string name="dayOfTrainning_23">DAY 23</string>
+    <string name="dayOfTrainning_24">DAY 24</string>
+    <string name="dayOfTrainning_25">DAY 25</string>
+    <string name="dayOfTrainning_26">DAY 26</string>
+    <string name="dayOfTrainning_27">DAY 27</string>
+    <string name="dayOfTrainning_28">DAY 28</string>
+    <string name="dayOfTrainning_29">DAY 29</string>
+    <string name="dayOfTrainning_30">DAY 30</string>
+
+    <string name="description_1">Warm-up (5 min walk), Run 1 min, Walk 1 min (repeat 10 times), Cool down (5 min walk)</string>
+    <string name="description_2">Warm-up (5 min walk), Run 1.5 min, Walk 1 min (repeat 8 times), Cool down (5 min walk)</string>
+    <string name="description_3">Warm-up (5 min walk), Run 2 min, Walk 1 min (repeat 7 times), Cool down (5 min walk)</string>
+    <string name="description_4">Rest or light stretching</string>
+    <string name="description_5">Warm-up (5 min walk), Run 2.5 min, Walk 1 min (repeat 6 times), Cool down (5 min walk)</string>
+    <string name="description_6">Warm-up (5 min walk), Run 3 min, Walk 1 min (repeat 6 times), Cool down (5 min walk)</string>
+    <string name="description_7">-up (5 min walk), Run 3.5 min, Walk 1 min (repeat 5 times), Cool down (5 min walk)</string>
+    <string name="description_8">Rest or light stretching</string>
+    <string name="description_9">Warm-up (5 min walk), Run 4 min, Walk 1 min (repeat 5 times), Cool down (5 min walk)</string>
+    <string name="description_10">Warm-up (5 min walk), Run 4.5 min, Walk 1 min (repeat 5 times), Cool down (5 min walk)</string>
+    <string name="description_11">Warm-up (5 min walk), Run 5 min, Walk 1 min (repeat 5 times), Cool down (5 min walk)</string>
+    <string name="description_12">Rest or light stretching</string>
+    <string name="description_13">Warm-up (5 min walk), Run 6 min, Walk 1 min (repeat 4 times), Cool down (5 min walk)</string>
+    <string name="description_14">Warm-up (5 min walk), Run 7 min, Walk 1 min (repeat 4 times), Cool down (5 min walk)</string>
+    <string name="description_15">Warm-up (5 min walk), Run 8 min, Walk 1 min (repeat 3 times), Cool down (5 min walk)</string>
+    <string name="description_16">Rest or light stretching</string>
+    <string name="description_17">Warm-up (5 min walk), Run 9 min, Walk 1 min (repeat 3 times), Cool down (5 min walk)</string>
+    <string name="description_18">Warm-up (5 min walk), Run 10 min, Walk 1 min (repeat 3 times), Cool down (5 min walk)</string>
+    <string name="description_19">Warm-up (5 min walk), Run 12 min, Walk 1 min (repeat 3 times), Cool down (5 min walk)</string>
+    <string name="description_20">Rest or light stretching</string>
+    <string name="description_21">Warm-up (5 min walk), Run 15 min, Walk 1 min, Run 10 min, Cool down (5 min walk) </string>
+    <string name="description_22">Warm-up (5 min walk), Run 20 min, Walk 1 min, Run 10 min, Cool down (5 min walk)</string>
+    <string name="description_23">Rest or light stretching</string>
+    <string name="description_24">Warm-up (5 min walk), Run 25 min, Walk 1 min, Run 10 min, Cool down (5 min walk)</string>
+    <string name="description_25">Warm-up (5 min walk), Run 30 min, Cool down (5 min walk)</string>
+    <string name="description_26">Warm-up (5 min walk), Run 35 min, Cool down (5 min walk)</string>
+    <string name="description_27">Rest or light stretching</string>
+    <string name="description_28">Warm-up (5 min walk), Run 40 min, Cool down (5 min walk)</string>
+    <string name="description_29">Warm-up (5 min walk), Run 45 min, Cool down (5 min walk)</string>
+    <string name="description_30">Warm-up (5 min walk), Run 5K (or 30 min), Cool down (5 min walk)</string>
+
+
+    <string name="message_1">Every journey begins with a single step.Today,you are taking that step towards your goal. Keep moving forward, one stride at a time.</string>
+    <string name="message_2">Remember, progress is progress, no matter how small. Celebrate every step you take towards your goal, no matter how minor it may seem.</string>
+    <string name="message_3">Visualize your success. Imagine yourself crossing the finish line of your first 5K race. Let that image drive you forward today and every day of your training.</string>
+    <string name="message_4">Rest is just as important as activity. Take this time to recharge your body and mind for the challenges ahead.</string>
+    <string name="message_5">Embrace the process. Every run, every workout, every challenge you overcome is shaping you into a stronger, more resilient runner.</string>
+    <string name="message_6">Focus on the journey, not just the destination. Enjoy the feeling of running, the rhythm of your breath, the sensation of your feet hitting the pavement.</string>
+    <string name="message_7">Reflect on how far you have come.Take pride in your progress and use it as fuel to propel you forward in the days ahead.</string>
+    <string name="message_8">Your body deserves a break. Use this time to relax, rejuvenate, and allow your muscles to recover.</string>
+    <string name="message_9">Believe in yourself. You are capable of more than you know. Trust in your training, trust in your abilities, and trust in your determination to succeed.</string>
+    <string name="message_10">Surround yourself with positivity. Seek out supportive friends, family, or fellow runners who can uplift and encourage you on your journey.</string>
+    <string name="message_11">Stay consistent. Success is not built on one great run, but on the cumulative effect of many small efforts repeated day after day.</string>
+    <string name="message_12">Stretch gently to release tension and improve flexibility. Treat your muscles with care and gratitude for all they do for you.</string>
+    <string name="message_13">Push yourself outside your comfort zone. Growth and improvement occur when you challenge yourself to do more than you think you are capable of.</string>
+    <string name="message_14">Stay focused on your goals. Keep your eyes on the prize and let nothing distract you from achieving what you set out to accomplish.</string>
+    <string name="message_15">Celebrate your progress. Take a moment to acknowledge how far you have come since you started this journey. You are stronger and more capable than you were yesterday.</string>
+    <string name="message_16">Listen to your body. If you are feeling fatigued or sore, honor your limits and give yourself permission to rest and recharge.</string>
+    <string name="message_17">Listen to your body. Pay attention to how you feel during your runs and adjust your pace or distance as needed to prevent injury and stay healthy.</string>
+    <string name="message_18">Trust the process. Even on tough days when the miles feel long and the legs feel heavy, have faith that your training is making you stronger and more prepared for race day.</string>
+    <string name="message_19">Find joy in the journey. Running is not just about reaching your destination; it is about enjoying the experience along the way.</string>
+    <string name="message_20">Trust in the process. Rest days are an essential part of your training plan, allowing your body to recover and come back stronger than ever.</string>
+    <string name="message_21">Stay committed to your goals. Remind yourself why you started this journey and let that motivation drive you forward, even when the going gets tough.</string>
+    <string name="message_22">Believe in yourself. You are capable of more than you know, and you have the strength and determination to overcome any challenge that comes your way.</string>
+    <string name="message_23">Stretch gently to release tension and improve flexibility. Treat your muscles with care and gratitude for all they do for you.</string>
+    <string name="message_24">Be proud of yourself. Take a moment to appreciate how far you have come since you started this journey. You have already achieved so much, and the best is yet to come.</string>
+    <string name="message_25">Embrace the process. Enjoy the feeling of running, the rhythm of your breath, and the sense of freedom that comes from moving your body.</string>
+    <string name="message_26">Push yourself beyond your limits. Challenge yourself to run a little faster, a little farther, or a little harder than you thought possible. You may surprise yourself with what you can accomplish.</string>
+    <string name="message_27">Remember, rest is not a sign of weakness; it is a sign of wisdom. Give yourself permission to rest without guilt or hesitation, knowing that it is an essential part of your journey towards success.</string>
+    <string name="message_28">Trust in your training. You have put in the work, and now it is time to trust that your body is ready to rise to the challenge and conquer your goal.</string>
+    <string name="message_29">Believe in yourself. You have the strength, the courage, and the determination to achieve anything you set your mind to. Trust in yourself and go after your goals with everything you have got.</string>
+    <string name="message_30">Today is the day you have been working towards. Trust in your training, trust in your abilities, and trust in yourself. You have got this. Now go out there and crush that 5K!</string>
+
+    <string name="message">Message of Day:</string>
+    <string name="expand_button_content_description">See more or less motivational tips.</string>
+
+
+
+</resources>
+
